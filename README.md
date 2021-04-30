@@ -11,6 +11,6 @@ Here is a couple of facts about me!
 - 👯 I’m looking to collaborate on anything, I'm always looking for some cool projects to become apart of!
 <!-- - 🤔 I’m looking for help with --> 
 - 💬 Ask me about anything I know. Shoot me a message and I'll tell what I know! 😂
-- 📫 You can reach my via [Discord](https://dsc.gg/maxshangout) or via [Email](mailto:maxplayle20@gmail.com)
+- 📫 You can reach me via [Discord](https://dsc.gg/maxshangout) or via [Email](mailto:maxplayle20@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Aside from GCSE Computer Science, I've never taken any development/computer science formal training. 
