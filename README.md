@@ -14,4 +14,4 @@ Here is a couple of facts about me!
 - 📫 You can reach me via [Discord](https://dsc.gg/maxshangout) or via [Email](mailto:maxplayle20@gmail.com)
 - 😄 Pronouns: He/him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmaxplayle)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=thatmaxplayle)](https://github.com/thatmaxplayle)
