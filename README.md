@@ -6,7 +6,7 @@
 
 Here is a couple of facts about me!
 
-- 🔭 I’m currently working on a [Discord Bot](https://maxplayledev.org/hangoutbot) called HangoutBot alongside a couple other developers and [Section136Callouts](https://maxplayledev.org/section136callouts) which is an LSPDFR Callout Package for the game Grand Theft Auto V.
+- 🔭 I’m currently working on a [Online Bookings/CRM Software](https://beta.entermanager.maxplayledev.org) for Mobile DJs/Entertainers and Venues 
 - 🌱 I'm currently learning TypeScript, and looking to port over some serverside software to TypeScript from Node.js.
 - 👯 I’m looking to collaborate on anything, I'm always looking for some cool projects to become apart of!
 <!-- - 🤔 I’m looking for help with --> 
