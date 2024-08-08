@@ -10,7 +10,7 @@ View more information at [https://ammedia.digital](https://ammedia.digital)
 
 Here is a couple of facts about me!
 
-- 🔭 My currnet main project is [GoVIP](https://go-vip.io) on behalf of [@ammediadigital](https://github.com/ammediadigital).
+- 🔭 My current main project is [GoVIP](https://go-vip.io) on behalf of [@ammediadigital](https://github.com/ammediadigital).
 - 📋 Personal Projects include:
    - EnterManager | Online Bookings & CRM for DJs, Entertainers and Music Venues
    - Section136Callouts | Callout plugin for LSPDFR/GTA V
